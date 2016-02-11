@@ -1,0 +1,25 @@
+_repo: Chroniques-de-J-Froissart-tome-213_50356
+creator:
+  author:
+    agent_name: Froissart, Jean
+    aliases:
+    - Froissart, Jehan
+    - Froyssart, Johan
+    - Frossardus, Joannes
+    - Froissart, John
+    gutenberg_agent_id: '5170'
+    url: http://www.gutenberg.org/2009/agents/5170
+description: ''
+gutenberg_bookshelf:
+- FR Histoire
+- FR Nouveautés
+gutenberg_issued: '2015-10-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '50356'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Chroniques de J. Froissart, tome 2/13
+url: http://www.gutenberg.org/ebooks/50356
