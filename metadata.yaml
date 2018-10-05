@@ -27,5 +27,7 @@ language: fr
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: Chroniques de J. Froissart, tome 2/13
 url: http://www.gutenberg.org/ebooks/50356
